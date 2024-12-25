@@ -2,9 +2,12 @@
 # AUTHOR: 1990jtf
 # REPO: https://github.com/1990jtf/airdrop_rule_script
 # UPDATED: 2024-12-25 17:21:44
-# DOMAIN-SUFFIX: 4
-# TOTAL: 4
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
 DOMAIN-SUFFIX,grassfoundation.io
 DOMAIN-SUFFIX,getgrass.io
 DOMAIN-SUFFIX,gradient.network
 DOMAIN-SUFFIX,nodepay.ai
+DOMAIN-SUFFIX,oasis.ai
+DOMAIN-SUFFIX,distribute.ai
+DOMAIN-SUFFIX,bless.network
